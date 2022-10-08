@@ -4,3 +4,18 @@
   background-position: center;
   height: 100vh;
 }
+
+#webcam-capture-component{
+  width: 640px;
+  height: 480px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  .col{
+    text-align: center;
+    button{
+      margin-top: 30px;
+    }
+  }
+}
