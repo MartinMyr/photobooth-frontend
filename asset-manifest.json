@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/photobooth-frontend/static/css/main.f1ff1bd0.css",
+    "main.js": "/photobooth-frontend/static/js/main.1a7f10de.js",
+    "static/media/background.jpg": "/photobooth-frontend/static/media/background.536b74983208d1a6536f.jpg",
+    "index.html": "/photobooth-frontend/index.html",
+    "main.f1ff1bd0.css.map": "/photobooth-frontend/static/css/main.f1ff1bd0.css.map",
+    "main.1a7f10de.js.map": "/photobooth-frontend/static/js/main.1a7f10de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ff1bd0.css",
+    "static/js/main.1a7f10de.js"
+  ]
+}
