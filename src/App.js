@@ -12,9 +12,7 @@ const App = () => {
 
     return(
         <Container fluid id="app">
-            <div id="webcam-capture-component">
-                <WebcamCapture></WebcamCapture>
-            </div>
+            <WebcamCapture></WebcamCapture>
         </Container>
     );
 }

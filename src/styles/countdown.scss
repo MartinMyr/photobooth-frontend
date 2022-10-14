@@ -1,0 +1,11 @@
+.countdown-component{
+  img{
+    width:150px;
+    height: 150px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+  }
+}
